@@ -80,3 +80,4 @@ function moveLift(el){
 }
 
 callBtn.forEach(btn=> btn.addEventListener('click',(e)=>{moveLift(e.target);}))
+

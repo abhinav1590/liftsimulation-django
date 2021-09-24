@@ -24,3 +24,4 @@ function liftDistance(pos){
 }
 
 export { liftDistance };
+
