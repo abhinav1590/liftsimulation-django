@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-1b(c-@651=a@0&n7+hu6x7ncp+g1g%v4xs%#3t2ou33u*ll_%&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['liftsimulation-by-abhinav.herokuapp.com']
 
 
 # Application definition
